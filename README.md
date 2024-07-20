@@ -2,9 +2,9 @@
 Jayavarshini here!
 # 💫 About Me:
 📖 Currently pursuing my engineering degree at<br> Avinasilingam institute for home science and engineering education for women <br>✨ I am a student with a strong interest in the Front end development who is driven and aspirational <br> Learning front end development with spotknack<br>
-
+<body>
 <a href="https://ephemeral-lamington-c67506.netlify.app/">
-<a href="https://clever-piroshki-171318.netlify.app"/>
+<a href="https://clever-piroshki-171318.netlify.app/">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://wwww.linkedin.com/in/Jayavarshini-m-502248258) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@varshinijaya68) 
@@ -18,3 +18,4 @@ Jayavarshini here!
 ---
 [![](https://visitcount.itsvg.in/api?id=Jayavarshini&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</body>
